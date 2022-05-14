@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelr12&label=Profile%20views&color=0e75b6&style=flat" alt="denzelr12" /> </p>
 
-- 🔭 I’m currently working on **Predictive Virtual Scribe to better assist doctors and eliminate malpractice**
+- 🔭 I’m currently working on **A Predictive Virtual Scribe to better assist doctors and eliminate malpractice**
 
 - 👯 I’m looking to collaborate on **Big Data Projects**
 
