@@ -1,6 +1,6 @@
 # Denzel Robinson
 
-AI and data engineer in Seattle. I build production data pipelines, agentic AI workflows, and the evaluation infrastructure that makes both trustworthy.
+AI and data engineer, willing to relocate. I build production data pipelines, agentic AI workflows, and the evaluation infrastructure that makes both trustworthy.
 
 ## What I work on
 
@@ -26,4 +26,4 @@ Python, SQL, PyTorch, PySpark, Delta Lake, scikit-image, Zarr, Databricks-style 
 
 ## Contact
 
-denzel.robinson23@gmail.com | Seattle, WA
+denzel.robinson23@gmail.com | Willing to relocate
