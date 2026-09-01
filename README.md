@@ -18,7 +18,6 @@ The work here focuses on the part of AI systems that cannot be solved with a bet
 | Project | What it demonstrates |
 |---|---|
 | [AdJudge Guardrails](https://github.com/DenzelR12/adjudge-guardrails) | An independent, human-calibrated multimodal AI evaluation and review-routing architecture for ad creative quality. It uses a public human-versus-LLM advertising benchmark as an evaluation basis; it does not claim ownership of the source dataset or ad assets. The architecture combines provenance-aware retrieval, freshness-controlled metric evidence, tenant-safe analytics, event forensics, human-approved remediation, and a sixth Advertiser and Campaign Intelligence Brain for scoped account context. |
-| [Second Brain RAG Guardrails](https://github.com/DenzelR12/second-brain-rag-guardrails) | Enterprise reference architecture for provenance-aware RAG: data contracts, freshness SLAs, metric verification, fail-closed policies, and audit-ready observability. |
 | [Developer Ecosystem Insights](https://github.com/DenzelR12/developer-ecosystem-insights) | Agentic Python data pipeline for developer-platform adoption telemetry, API ingestion, data-quality gates, freshness monitoring, and defensible metric definitions. |
 | [Credit Risk Research Framework](https://github.com/DenzelR12/credit-risk-research-framework) | Transparent reference architecture for quality-gated, explainable financial-risk research alerts. Educational only; not investment advice or a production risk model. |
 
@@ -43,7 +42,7 @@ These repositories remain private because they contain proprietary product, cust
 
 **Languages and data:** Python · SQL · API ingestion · ETL/data pipelines · data-quality monitoring
 
-**ML and AI:** PyTorch · computer vision · 3D segmentation · multimodal evaluation · RAG · LLM-as-judge evaluation · agent orchestration
+**ML and AI:** PyTorch · computer vision · 3D segmentation · multimodal evaluation · RAG · LLM-as-Judge evaluation · agent orchestration
 
 **System design:** tenant isolation · authorization-aware retrieval · metric provenance · freshness verification · audit lineage · observability
 
