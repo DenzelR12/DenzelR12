@@ -2,7 +2,7 @@
 
 **AI Research Engineer and Solution Architect** building governed AI systems, trustworthy retrieval, evaluation infrastructure, and large-scale data pipelines.
 
-Seattle, WA · Willing to relocate · [Hugging Face dataset](https://huggingface.co/datasets/AdControlCenter/ad-creative-quality-human-vs-llm) · [Email](mailto:denzel.robinson23@gmail.com)
+Seattle, WA · Willing to relocate · [Email](mailto:denzel.robinson23@gmail.com)
 
 ## Focus
 
@@ -17,7 +17,7 @@ The work here focuses on the part of AI systems that cannot be solved with a bet
 
 | Project | What it demonstrates |
 |---|---|
-| [AdJudge Guardrails](https://github.com/DenzelR12/adjudge-guardrails) | Human-calibrated multimodal AI evaluation and review routing for ad creative quality. The platform combines provenance-aware retrieval, freshness-controlled metric evidence, tenant-safe analytics, event forensics, human-approved remediation, and a sixth Advertiser and Campaign Intelligence Brain for scoped account context. |
+| [AdJudge Guardrails](https://github.com/DenzelR12/adjudge-guardrails) | An independent, human-calibrated multimodal AI evaluation and review-routing architecture for ad creative quality. It uses a public human-versus-LLM advertising benchmark as an evaluation basis; it does not claim ownership of the source dataset or ad assets. The architecture combines provenance-aware retrieval, freshness-controlled metric evidence, tenant-safe analytics, event forensics, human-approved remediation, and a sixth Advertiser and Campaign Intelligence Brain for scoped account context. |
 | [Second Brain RAG Guardrails](https://github.com/DenzelR12/second-brain-rag-guardrails) | Enterprise reference architecture for provenance-aware RAG: data contracts, freshness SLAs, metric verification, fail-closed policies, and audit-ready observability. |
 | [Developer Ecosystem Insights](https://github.com/DenzelR12/developer-ecosystem-insights) | Agentic Python data pipeline for developer-platform adoption telemetry, API ingestion, data-quality gates, freshness monitoring, and defensible metric definitions. |
 | [Credit Risk Research Framework](https://github.com/DenzelR12/credit-risk-research-framework) | Transparent reference architecture for quality-gated, explainable financial-risk research alerts. Educational only; not investment advice or a production risk model. |
@@ -31,14 +31,6 @@ An active independent research project for 4D light-sheet microscopy. VoxTree pr
 The project progressed from a 0.262 baseline to a 0.873 public leaderboard score through measured iteration. The key improvement was diagnosing an ignore-mask training failure that suppressed gradients in dense frames; correcting the mask and target configuration reduced heatmap saturation from 0.25 to 0.047, raised a high-weight movie's node ratio from 0.72 to 0.94, and delivered a +0.033 leaderboard gain that the local evaluation harness predicted to three decimals. A 22-test regression suite covers critical detection and tracking behavior.
 
 The public score is ongoing work, not a claim of final ranking or a production validation.
-
-## Public Dataset
-
-### [Ad Creative Quality: Human Expert vs. Vision-LLM Judgments](https://huggingface.co/datasets/AdControlCenter/ad-creative-quality-human-vs-llm)
-
-A CC-BY-4.0 dataset published through AdControlCenter for evaluating human-versus-vision-LLM creative-quality judgments. It supports the AdJudge evaluation work by making agreement, calibration, and systematic-disagreement analysis falsifiable rather than anecdotal.
-
-The dataset is public; original ad creative assets are not redistributed by AdJudge. Source-reported findings and independently recomputed project metrics are intentionally kept separate.
 
 ## Product and Client Work
 
