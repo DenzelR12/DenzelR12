@@ -2,11 +2,11 @@
 
 **AI Research Engineer and Solution Architect** building governed AI systems, trustworthy retrieval, evaluation infrastructure, and large-scale data pipelines.
 
-Seattle, WA · Willing to relocate · [Email](mailto:denzel.robinson23@gmail.com)
+Atlanta, GA · Willing to relocate · [Email](mailto:denzel.robinson23@gmail.com)
 
 ## Latest Project: Muse Shopping Index
 
-**[Muse Shopping Index](https://github.com/DenzelR12/Muse-Shopping-Index)** · [Live demo](https://denzelr12.github.io/Muse-Shopping-Index/demo/) · [Pitch video (2:57)](https://denzelr12.github.io/Muse-Shopping-Index/muse_demo-video.MP4) · Entry for Meta's Global AI Developer Hackathon
+**[Muse Shopping Index](https://github.com/DenzelR12/Muse-Shopping-Index)** · [Live demo](https://denzelr12.github.io/Muse-Shopping-Index/demo/) · [Pitch video (2:59)](https://denzelr12.github.io/Muse-Shopping-Index/muse_demo-video.MP4) · Entry for Meta's Global AI Developer Hackathon
 
 A solution design for turning a Reel into a purchase without losing the customer's trust. A viewer taps **Shop this reel**, sees one exact review (seller, item, total, shipping, tax, refund terms), approves once, and the server executes. The model proposes; a deterministic server authorizes.
 
@@ -77,4 +77,4 @@ These repositories remain private because they contain proprietary product, cust
 
 ## Contact
 
-[denzel.robinson23@gmail.com](mailto:denzel.robinson23@gmail.com) · Seattle, WA · Willing to relocate
+[denzel.robinson23@gmail.com](mailto:denzel.robinson23@gmail.com) · Atlanta, GA · Willing to relocate
